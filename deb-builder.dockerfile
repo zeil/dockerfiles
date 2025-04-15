@@ -1,4 +1,4 @@
-ARG BASE=ubuntu:22.04
+ARG BASE=ubuntu:24.04
 
 FROM $BASE
 
